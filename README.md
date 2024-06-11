@@ -3,3 +3,5 @@ Test Plan, Test Scenarios, Test Cases of all functionalities of a demo web appli
 and for 'Forget Password' functionality test cases: https://opencart.antropy.co.uk/
 
 And also "Doubts & Defects" of the apllications are listed.
+
+Domain: eCommerce
