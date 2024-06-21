@@ -4,4 +4,4 @@ and for 'Forget Password' functionality test cases: https://opencart.antropy.co.
 
 And also "Doubts & Defects" of the apllications are listed manually.
 
-Domain- eCommerce
+Domain: eCommerce
